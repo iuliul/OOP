@@ -1,0 +1,3 @@
+/Users/iulia/Desktop/Lab9-10 2/cmake-build-debug/CMakeFiles/Lab9_10.dir
+/Users/iulia/Desktop/Lab9-10 2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/iulia/Desktop/Lab9-10 2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
